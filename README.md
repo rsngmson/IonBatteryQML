@@ -1,2 +1,2 @@
 # SodIonQML
-Kho lưu trữ Dự án "Phát triển pin ion natri dựa trên thuật toán học máy lượng tử"
+Kho lưu trữ Dự án "Phát triển pin ion dựa trên thuật toán học máy lượng tử"
